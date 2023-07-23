@@ -201,7 +201,9 @@ input, select, textarea {
 	br.clear {
 		clear: both;
 	}
-
+img{
+	object-fit: contain;
+}
 /* Container */
 
 	.container {
